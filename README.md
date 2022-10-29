@@ -2,6 +2,8 @@
 
 # Awesome Book Store
 
+Awesome book store app will keep track of your favorite book list. Try listing your favorite book now.
+
 ### This project is a task by Microverse.
 
 #### Milestone completed:
